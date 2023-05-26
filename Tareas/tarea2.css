@@ -1,0 +1,61 @@
+#lll {
+  color:rgb(3, 84, 116);
+  font-size: 90px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  text-shadow: 3px 3px rgb(115, 192, 223);
+}
+#p1 {
+  color: rgb(220, 43, 226);
+  font-size: 80px;
+  text-align: center;
+  background-color: khaki;
+  text-shadow: 4px 4px magenta;
+}
+#p2 {
+  color: rgb(13, 231, 122);
+  font-size: 80px;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+#p3 {
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  background-color: black;
+}
+
+#p4 {
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  background-color: black;
+}
+
+#p5 {
+  color:mediumblue;
+  font-size: 100px;
+  text-transform: uppercase;
+  text-align: center;
+  background-color:cornsilk;
+}
+
+#p6 {
+  color: mediumblue;
+  font-size: 100px;
+  text-transform :uppercase
+  text-align: center;
+  background-color: cornsilk;
+}
+
+#p7 {
+  color: mediumvioletred;
+  font-size: 140px;
+  text-align: center;
+  background-color:whitesmoke;
+  text-shadow: 3px 3px pink;
+}
+
+
+

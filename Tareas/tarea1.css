@@ -1,0 +1,37 @@
+h1 {
+  color: blueviolet;
+  font-size: 100px;
+  text-align: center;
+  background-color: cornsilk;
+}
+h2 {
+  color: purple;
+  font-size: 100px;
+  text-align: center;
+  background-color: thistle;
+}
+h3 {
+  color: orchid;
+  font-size: 100px;
+  text-align: center;
+  background-color: thistle;
+}
+
+h4 {
+  color: turquoise;
+  font-size: 100px;
+  text-align: center;
+  background-color: whitesmoke;
+}
+h5 {
+  color: rebeccapurple;
+  font-size: 100px;
+  text-align: center;
+  background-color: thistle;
+}
+h6 {
+  color: violet;
+  font-size: 100px;
+  text-align: center;
+  background-color: thistle;
+}
